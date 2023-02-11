@@ -2,6 +2,8 @@
 
 Passing Next.js [tutorial](https://nextjs.org/learn/foundations/about-nextjs)
 
+Website is available [here](https://learn-next-js-iota.vercel.app/) ([https://learn-next-js-iota.vercel.app/](https://learn-next-js-iota.vercel.app/))
+
 ## Agenda
 
 1. FOUNDATIONS 

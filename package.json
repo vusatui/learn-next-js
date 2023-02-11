@@ -1,11 +1,12 @@
 {
+  "private": true,
   "name": "learn-next",
   "version": "1.0.0",
   "description": "Passing Next.js [tutorial](https://nextjs.org/learn/foundations/about-nextjs)",
-  "main": "pages/index.jsx",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
@@ -18,8 +19,12 @@
   },
   "homepage": "https://github.com/vusatui/learn-next-js#readme",
   "dependencies": {
-    "next": "^13.1.6",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "date-fns": "^2.29.3",
+    "gray-matter": "^4.0.3",
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "remark": "^14.0.2",
+    "remark-html": "^15.0.2"
   }
 }

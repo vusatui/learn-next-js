@@ -1,0 +1,25 @@
+{
+  "name": "learn-next",
+  "version": "1.0.0",
+  "description": "Passing Next.js [tutorial](https://nextjs.org/learn/foundations/about-nextjs)",
+  "main": "pages/index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vusatui/learn-next-js.git"
+  },
+  "author": "Anton Vusatyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vusatui/learn-next-js/issues"
+  },
+  "homepage": "https://github.com/vusatui/learn-next-js#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
